@@ -1,0 +1,51 @@
+.thead {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 70px;
+    font-weight: bold;
+    /* line-height: 0.9; */
+    }
+    
+  .td1 {
+    padding: 8px;
+    border: 5px solid #000;
+    text-align: right;
+    width: 20%;
+    font-size: 40px;
+    font-weight: bold;
+    }
+
+  .td2 {
+    padding: 8px;
+    border: 5px solid #000;
+    text-align: center;
+    width: 80%;
+    font-size: 40px;
+    font-weight: bold;
+    }
+
+  .tdcm {
+    padding: 16px;
+    border: 5px solid #000;
+    text-align: center;
+    width: 80%;
+    font-size: 60px;
+    font-weight: bold;
+  }
+
+  .tle {
+    padding: 18px;
+    border: 5px solid #000;
+    width:100%;
+  }
+
+  .imglogo {
+    width: '60px';
+    height: '45px';
+  }
+  
+  .ptext {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 0.9;
+  }
