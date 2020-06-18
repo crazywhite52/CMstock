@@ -1,5 +1,5 @@
 # React put_stock
-MDBootstrap for React
+จัดสินค้า ในงานคอมมาร์ท
 
 ## Getting Started
 To test, contribute or just see what we did follow few easy steps:
